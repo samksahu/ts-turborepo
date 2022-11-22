@@ -1,6 +1,7 @@
 {
   "name": "docs",
   "version": "0.0.0",
+  "main": "./src/pages",
   "private": true,
   "scripts": {
     "dev": "next dev --port 3001",
